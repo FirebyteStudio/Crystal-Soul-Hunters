@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://firebytestudio.github.io/Crystal-Soul-Hunters/sitemap.xml
